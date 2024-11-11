@@ -1,0 +1,8 @@
+{
+  "stats": [
+    { "title": "Revenue", "value": "$2,047",  "percentage": "-10%", "color": "text-red-500", "bgColor": "bg-yellow-500" },
+    { "title": "Orders", "value": "356", "percentage": "+20%", "color": "text-green-500", "bgColor": "bg-green-500" },
+    { "title": "Dine in", "value": "220",  "percentage": "+10%", "color": "text-green-500", "bgColor": "bg-red-500" },
+    { "title": "Take away", "value": "135", "percentage": "-5%", "color": "text-red-500", "bgColor": "bg-yellow-500" }
+  ]
+}
